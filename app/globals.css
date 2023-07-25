@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(232, 165, 165);
+
+}
+
+header {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: black;
+  color: white ;
+  height: 50px;
+  align-items: center;
+}
+
+.container {
+  /* display: flex; */
+  max-width: 1200px;
+  margin: 50px;
+}
+
+footer {
+  margin-top: 41.8%;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  height: 50px;
+  align-items: center;
+}
+
+
+   
